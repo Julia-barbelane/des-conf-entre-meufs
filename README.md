@@ -1,6 +1,6 @@
 # Des conf entre meufs ?
 
-![https://github.com/Julia-barbelane/des-conf-entre-meufs/blob/master/medias/readme.jpeg]
+![des meufs sur un banc](https://github.com/Julia-barbelane/des-conf-entre-meufs/blob/master/medias/readme.jpeg)
 
 ***Noém's** : voici Julia  
 **Ju** : voici Noémie*

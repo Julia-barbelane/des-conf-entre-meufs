@@ -13,7 +13,6 @@ Trop facile. Ici on s'est vite rejoind. Expérimenter et partager.
 **Noém's** : j'ai bien aimé tes réflexions sur [la fabrication](https://github.com/Julia-barbelane/reflexions/blob/master/chantiers/code-of-conduct.md) et [l'accueil](https://github.com/Julia-barbelane/reflexions/blob/master/chantiers/CoC-pour-VS-contre.md) des CoC et les [pratiques safe](https://github.com/Julia-barbelane/reflexions/blob/master/chantiers/creer-un-cadre-de-collaboration-safe.md). On pourrait reprendre ce travail et fabriquer des supports dessus.  
 **Ju** : Tu veux dire qu'on aurait déjà la base de matière et qu'il ne resterait qu'à imaginer la forme la plus adaptée pour la transmettre ?  
 **Noém's** : yess c'est ça.  
-**Ju** : Bingo. T'as des idées ?  
 
 ## Step#4 : d'accord mais sous quel format ?** 
 **Noém's** : déjà je suis pas fane des conférences. L'idée d'être sur scène c'est pas ce que je préfère. Si on partait sur un format d'atelier ?  

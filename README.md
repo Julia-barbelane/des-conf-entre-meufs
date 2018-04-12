@@ -5,8 +5,9 @@
 ***Noém's** : voici Julia  
 **Ju** : voici Noémie*
 
-***Noém's et Ju** : on partage des centre d'intérêts communs (inclusivité, safitude...) et ont eu envie de réfléchir à ces sujet et pourquoi pas de fabriquer des Trucs pour les partager tout en s'amusant. L'idée est née comme ça suite à une discusion sur les Code Of Conduct. Résultat, un call plus tard on avait créé ce repo' dans lequel on savait pas encore tout à fait quoi mettre...*
+***Noém's et Ju** : on partage des centre d'intérêts communs (inclusivité, safitude...) et ont eu envie de réfléchir à ces sujets et pourquoi pas de fabriquer des Trucs pour les partager tout en s'amusant. L'idée est née comme ça suite à une discusion sur les Code Of Conduct. Résultat, un call plus tard on avait envie de proposer une conf et on avait créé ce repo' dans lequel on savait pas encore tout à fait quoi mettre...*
 
+# Les Calls
 
 
 

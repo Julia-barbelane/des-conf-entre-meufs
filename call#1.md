@@ -32,7 +32,7 @@ Trop facile. Ici on s'est vite rejoind. Expérimenter et partager.
 - créer du sentiment pour connecter à la réalité  
 - Créer un moment de calme et de partage  
 - Créer volontairement un espace non safe. Si c'est le cas prévenir en amont pour vérifier que les personnes présentes sont consententes.
-- Introduire en s'alignant sur des définitions de mots (cf : réflexions de [David Bruant](https://github.com/DavidBruant/interactions-humaines-saines-utiles-long-terme).  
+- Introduire en s'alignant sur des définitions de mots (cf : réflexions de [David Bruant](https://github.com/DavidBruant/interactions-humaines-saines-utiles-long-terme)).  
 - Prévoir une suite (gp FB, slack, wiki...) dans lequel les personnes pourront continuer à réfléchir, s'entraîner, partager des expériences...L'idée : muscler sa capacité de Safitude et gagner en précision quand à ces questions là, co-créer un espaces inspirant autour de ce sujet.  
 
 **Idées de chronologie de construction de l'atelier :** 

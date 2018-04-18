@@ -15,7 +15,7 @@ Trop facile. Ici on s'est vite rejoint. Expérimenter et partager.
 **Noém's** : yes c'est ça.  
 
 ## Step#4 : d'accord mais sous quel format ?
-**Noém's** : déjà je suis pas fan des conférences. L'idée d'être sur scène c'est pas ce que je préfère. Si on partait sur un format d'atelier ?  
+**Noém's** : déjà je suis pas fan du format de la conférence. L'idée d'être sur scène c'est pas ce que je préfère - trop vertical. Si on partait sur un format d'atelier ? 
 **Ju** : grave je te rejoins à fond sur cette idée. Et en même temps j'ai l'impression que pour le faire bien ça va demander pas mal de taf puisqu'il faut tout inventer. En fait ça m'inquiète un peu. Je sais pas si en ce moment j'ai l'énergie pour ça. Qu'est-ce que t'en pense ?  
 **Noém's** : on a le temps avant que les évènements aient lieu. Et puis on peut proposer un trucs en présentant les grandes lignes et ajuster la forme précise après.  
 **Ju** : ouais carrément. T'as des idées ?   
@@ -41,13 +41,15 @@ Trop facile. Ici on s'est vite rejoint. Expérimenter et partager.
 3) Sémantisation et replacement dans un contexte d'analyse les situations vécues  
 4) Proposition de nos solutions et outils (style CoC, fishbowl, etc) et recherches communes d'autres solutions complémentaires avec les participant·e·s  
 
-**Idées de description de l'atelier**
+**Vrac de choses qui décrivent ce qui pourrait se passer dans l'atelier**
 - Réfléchir le rapport à soi et aux autres, dans le travail et en dehors. 
 - Enoncer ses attentes / verbaliser ses besoins.
 - Faire l’expérience d’autres formats.
 
-## Les sujets qui grattent :
-- **Noems** : Cette posture de "déléguée à l'inclusion" - ou aborder le sujet des femmes / de la représentativité directement dans à un public qui a déjà beaucoup entendu de choses là-dessus. Ravie de faire des discussions ouvertes sur ce sujet — mais dans d’autres contextes et pour un autre public que celui des conf web. (qui n’ont pas “[fait l’expérience de la minorité](http://www.liberation.fr/france/2018/01/28/christiane-taubira-il-est-temps-que-les-hommes-fassent-l-experience-de-la-minorite_1625775)”) 
+## Inquiétudes :
+- **Noems** : Cette posture de "déléguée à l'inclusion".
+En plus, le public des confs web a déjà beaucoup entendu parler de diversité et d'inclusion — il y a une fatigue sur ces sujets et ces mots trop employés.
+Ravie d'aborder le sujet mais pour un autre public que celui des conf web. (qui n’ont pas “[fait l’expérience de la minorité](http://www.liberation.fr/france/2018/01/28/christiane-taubira-il-est-temps-que-les-hommes-fassent-l-experience-de-la-minorite_1625775)”) 
 
 - **Noems et Julia** : Valeurs affichées / valeurs réelles, en entreprises ou en conférences. Définir des intentions ne suffit pas, il faut les accompagner de réflexions individuelles, de moments d'échange, d'actions.
 

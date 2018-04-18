@@ -14,7 +14,7 @@ Trop facile. Ici on s'est vite rejoint. Expérimenter et partager.
 **Ju** : Tu veux dire qu'on aurait déjà la base de matière et qu'il ne resterait qu'à imaginer la forme la plus adaptée pour la transmettre ?  
 **Noém's** : yes c'est ça.  
 
-## Step#4 : d'accord mais sous quel format ?** 
+## Step#4 : d'accord mais sous quel format ?
 **Noém's** : déjà je suis pas fan des conférences. L'idée d'être sur scène c'est pas ce que je préfère. Si on partait sur un format d'atelier ?  
 **Ju** : grave je te rejoins à fond sur cette idée. Et en même temps j'ai l'impression que pour le faire bien ça va demander pas mal de taf puisqu'il faut tout inventer. En fait ça m'inquiète un peu. Je sais pas si en ce moment j'ai l'énergie pour ça. Qu'est-ce que t'en pense ?  
 **Noém's** : on a le temps avant que les évènements aient lieu. Et puis on peut proposer un trucs en présentant les grandes lignes et ajuster la forme précise après.  

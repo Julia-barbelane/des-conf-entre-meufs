@@ -10,3 +10,8 @@
 **Ju** : Banco ! Mardi, 14h30 ?  
 **Noém's** : Allez.  
 
+## Le backlog des idées de conversation
+- **Approfondir la discussion sur les termes "inclusion" et "diversité" et ce qu'ils visent** — pas l’énergie tout de suite, on garde ça en stock.
+
+- **Code of conduct** : Quels objectifs ? Est-ce que c’est atteint ? Est-ce qu’il y a d’autres moyens pour atteindre ces objectifs ? Comment en diffuser les valeurs au sein d’une équipe / d’un évènement ?
+

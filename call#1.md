@@ -51,11 +51,6 @@ Trop facile. Ici on s'est vite rejoint. Expérimenter et partager.
 
 - **Noems et Julia** : Valeurs affichées / valeurs réelles, en entreprises ou en conférences. Définir des intentions ne suffit pas, il faut les accompagner de réflexions individuelles, de moments d'échange, d'actions.
 
-## Le backlog des idées de conversation
-- **Approfondir la discussion sur les termes "inclusion" et "diversité" et ce qu'ils visent** — pas l’énergie tout de suite, on garde ça en stock.
-
-- **Code of conduct** : Quels objectifs ? Est-ce que c’est atteint ? Est-ce qu’il y a d’autres moyens pour atteindre ces objectifs ? Comment en diffuser les valeurs au sein d’une équipe / d’un évènement ?
-
 ## Les liens:  
 • [Charte Blend Web Mix 2018](https://www.blendwebmix.com/wp-content/uploads/2018/03/charte-speakers-blend-2018.pdf)  
 • [Blog - Orientation du comité design de BlendWebMix](https://www.blendwebmix.com/blog/orientations-design/) - deadline 30 avril - ils font des retours/échanges sur les propositions donc plus on soumet tôt, plus l'échange est possible avec les équipes.  

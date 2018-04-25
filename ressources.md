@@ -8,3 +8,7 @@ Ce que ça dit :
 - Elle conseille de s'adresser directement aux personnes concernées si on a besoin d'aide et de les payer pour ça car les gens qui sont sous-représentés dans la technologie sont souvent aussi sous-payés dans la technologie.
 - la diversité doit être partout (oragnisat·eur·rice·s, conférenci·er·ère·s, bénévoles, participan·t·e·s...à
 - Quand la diversité est juste faite pour l'apparence, rien dans la culture de la conférence n'a réellement changé.
+
+
+## Proposition concrète en faveur de plus d'inclusivité 
+- Marie-Cécile Paccard sur son Twitter "Vous êtes une femme ou une personne non-binaire et vous aimeriez parler de design à @blendwebmix sans oser déposer un sujet : On en parle ensemble ? Je suis dispo pour vous donner un coup de main."

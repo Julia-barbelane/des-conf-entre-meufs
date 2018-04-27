@@ -53,16 +53,6 @@ Ravie d'aborder le sujet mais pour un autre public que celui des conf web. (qui 
 
 - **Noems et Julia** : Valeurs affichées / valeurs réelles, en entreprises ou en conférences. Définir des intentions ne suffit pas, il faut les accompagner de réflexions individuelles, de moments d'échange, d'actions.
 
-## Les liens:  
-• [Charte Blend Web Mix 2018](https://www.blendwebmix.com/wp-content/uploads/2018/03/charte-speakers-blend-2018.pdf)  
-• [Blog - Orientation du comité design de BlendWebMix](https://www.blendwebmix.com/blog/orientations-design/) - deadline 30 avril - ils font des retours/échanges sur les propositions donc plus on soumet tôt, plus l'échange est possible avec les équipes.  
-Les 3 axes:  
-- le design comme vecteur d’identité individuelle, collective et communautaire,
-- le design comme vecteur de transmission concrète des valeurs et de la vision,
-- le design comme levier de durabilité, prospérité et progrès social.
-
-• [The diversity charter](http://diversitycharter.org/)
-
 ## La prochaine fois
 - Un appel la semaine prochaine
 - **Noems** : Lecture des articles de David sur le consentement.

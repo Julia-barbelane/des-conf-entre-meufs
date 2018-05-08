@@ -69,8 +69,8 @@ Démontre surtout l'impact des ice breakers (quelques exercices dans la salle fo
 ### [Percevoir et communiquer: réalité et fictions personnelles](https://mixitconf.org/en/2018/percevoir-et-communiquer-realite-et-fictions-personnelles)
 > En dépit des apparences, la communication obéit aux mêmes règles que la perception : le cerveau préfère tout miser sur une interprétation que de rester dans l’ambigüité. [...] Alors comment pouvons-nous rester disponible à la réalité de l'autre et conserver une communication ouverte et constructive ?
    
-Je vais essayer de garder un œil sur la disponibilité de la vidéo de cette conf, qui est classée bien haut dans mon top 3 sur ces deux jours. Un mix de neurobiologie et de principes de communication non-violente. Un excellent résumé, super engageant.  
- La conf est structurée en une suite de d'illusions optiques pour démontrer la non-fiabilité de nos perceptions, de nos interprétations constantes, puis présente la CNV. Excellent.  
+Superbe conf, classée bien haut dans mon top 3 sur ces deux jours. Un mix de neurobiologie et de principes de communication non-violente. Un excellent résumé, super engageant. La vidéo est disponible [ici](https://vimeo.com/267960014).  
+La conf est structurée en une suite de d'illusions optiques pour démontrer la non-fiabilité de nos perceptions, de nos interprétations constantes, puis présente la CNV. Excellent. Je recommande particulièrement la deuxième moitié de la vidéo.
    
 ### [Ground Control to Major Tom](https://mixitconf.org/en/2018/plan-de-vol-ground-control-to-major-tom)
  > Qu’est-ce que tu voudras faire quand tu seras grand ? La société nous met la pression pour des plans de vol tout tracés. On oublie parfois de prendre un peu de recul et on se retrouve alors en plein vol à se demander si on ne s’est pas planté de destination. 

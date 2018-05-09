@@ -9,7 +9,9 @@
 
 # Les échanges
 - [Préambule](https://github.com/Julia-barbelane/des-conf-entre-meufs/blob/master/pr%C3%A9ambule.md)
-- [Call #1](https://github.com/Julia-barbelane/des-conf-entre-meufs/blob/master/call%231.md)
+- [Call #1](https://github.com/Julia-barbelane/des-conf-entre-meufs/blob/master/call%231.md) - Une conférence ? Sûres ? Pourquoi et comment ?  
+- [Call #2 : "La violence c'est le rythme des autres"](https://github.com/Julia-barbelane/des-conf-entre-meufs/blob/master/call%232.md)  
+- [Call#3 - Retour sur le rythme, le non-safe au quotidien, les ingrédients d'intéractions safe](https://github.com/Julia-barbelane/des-conf-entre-meufs/blob/master/call%233.md)
 
 
 

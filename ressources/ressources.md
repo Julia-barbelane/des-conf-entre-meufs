@@ -13,6 +13,11 @@ Ce que ça dit :
 - Elle conseille d'ouvrir des espaces pour celles et ceux qui on des besoins spécifiques (espaces de prière, espace pour allaiter, garde d'enfants...)
 - Elle met en avant la prise de conscience de notre statut de privilégié·e·s et donne des conseils sur ce qu'on peut faire avec ça (ne pas parler des conférences qui ne sont pas inclusives, payer des places, vérifier les politiques inclusives des sponsors...)
 
+## [Dear Conference Organizers: You’re Doing Chairs Wrong](https://motherboard.vice.com/en_us/article/j5a753/design-bias-conference-chairs) de Rose Eveleth
+
+Dans cet article elle ouvre un point de vigilence : certaines oratrices portent des robes. Elle propose de veiller à ce que les sièges choisis tiennent compte de ce choix (ex : un tabouret sur une scène n'est pas compatible avec une robe ou une jupe. Il y a de grandes chances pour que, dans cette configuration, le public apperçoive ses sous-vêtements). Elle parle aussi des micro hf (utilisés pour amplifier le son) qui sont conçus pour être fixés à une ceinture. Faute de ceinture lorsqu'on porte une robe on doit le tenir à la main.
+
+
 ### [Retour d'expérience de la conférence MiXit 2018](https://github.com/Julia-barbelane/des-conf-entre-meufs/blob/master/retour-d-experience-mixit-2018.md)  
 Synthèse des apprentissages par Noémie.
 Liens des conférences captées :  

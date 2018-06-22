@@ -8,8 +8,10 @@ Ce que ça dit :
 - Ada Rose Cannon a décidé de ne plus prendre la parole dans des conférences qui ne sont pas inclusives ou dans lesquelles les organisat·eur·rice·s on fait peu ou pas d'efforts pour cette inclusivité
 - Elle ne veut pas être une porte parole symbolique, elle n'est pas experte en diversité et préfère être interpellée sur ses compétences techiques
 - Elle conseille de s'adresser directement aux personnes concernées si on a besoin d'aide et de les payer pour ça car les gens qui sont sous-représentés dans la technologie sont souvent aussi sous-payés dans la technologie.
-- la diversité doit être partout (oragnisat·eur·rice·s, conférenci·er·ère·s, bénévoles, participan·t·e·s...à
+- la diversité doit être partout (oragnisat·eur·rice·s, conférenci·er·ère·s, bénévoles, participan·t·e·s...)
 - Quand la diversité est juste faite pour l'apparence, rien dans la culture de la conférence n'a réellement changé.
+- Elle conseille d'ouvrir des espaces pour celles et ceux qui on des besoins spécifiques (espaces de prière, espace pour allaiter, garde d'enfants...)
+- Elle met en avant la prise de conscience de notre statut de privilégié·e·s et donne des conseils sur ce qu'on peut faire avec ça (ne pas parler des conférences qui ne sont pas inclusives, payer des places, vérifier les politiques inclusives des sponsors...)
 
 ### [Retour d'expérience de la conférence MiXit 2018](https://github.com/Julia-barbelane/des-conf-entre-meufs/blob/master/retour-d-experience-mixit-2018.md)  
 Synthèse des apprentissages par Noémie. 

@@ -25,11 +25,36 @@ En situation de stress, d'urgence, si ma sécurité est menacée (ou si j'ai l'i
 Ce constat nous pousse à souhaiter anticiper au maximum ces situations. Eviter le stress, éviter les urgences. Ne pas décider sous-stress, ne pas décider en urgence pour préserver nos valeurs et rester congruantes. Parfois c'est impossible. Existe-t-il alors des stratégies à mettre en place pour ne pas être "victime" du rythme insoutenable créé par l'urgence ou le stress ? 
 
 ## Réflexion n°2 - Comment nourrir le safe à travers l'écoute ? 
-Je ne me rappelle plus comment on en est arrivées à parler de ça. Toujours est-il que s'en ait suivi une approche explicative de ce qui, selon moi, constitue la base d'une bonne écoute. 
+Noémie et moi nous rejoignons sur ce constat qu'échanger avec des personnes qui savent écouter c'est vraiment confortable. La qualité d'écoute est un exercice que j'ai mis du temps à pratiquer un peu plus instinctivement. il m'a fallu plusieurs mois de musclage de cerveau pour me sentir à l'aise. 
 
-D'abord c'est un exercice que j'ai mis du temps à pratiquer un peu plus instinctivement. il m'a fallu plusieurs mois de musclage de cerveau pour me sentir à l'aise. 
+Parceque je crois que l'écoute un aller-retour perpetuel du cerveau gauche au cerveau droit. C'est comme une danse. Je dois mobiliser mon cerveau gauche pour être dans l'écoute précise et pragmatique de ce que l'autre est en train de dire, et en même temps, je dois faire appel à mon cerveau droit pour rester en connexion intuitive avec ce que l'autre est en train de vivre. 
 
-Mais ce qui m'a permis d'y arriver, c'est l'intention. L'intention d'être en relation avec l'autre, connectée et surtout de lui être utile. 
+**L'intention**
+Avant toute interaction je me connecte à l'intention d'être en relation avec l'autre, connectée et de lui être utile. D'être là avec et pour lui·elle
+
+**L'empathie, reconnaître le sentiment**
+Mes deux émpishères opérationnels, je peux repérer/ressentir les émotions que l'autre et entrer en empathie avec luien le renommant et en reformulant. "*Oui j'imagine que quand il·elle t'a dit ça, tu as du être en colère/triste et te sentir désemparée. C'est ça ?"*. 
+elle.
+
+**Faire écho, reformuler**
+Renomer, reformuler le sentiment permet de faire écho à l'autre, d'accuser réception. Il·elle se sent alors entendu·e et compris·e. 
+"*Oui j'imagine que quand il·elle t'a dit ça, tu as du être en colère/triste et te sentir désemparée. C'est ça ?"*. 
+
+**Les silences**
+Souvent ils mettent mal à l'aise pourtant ils peuvent jouer un grand rôle dans les interactions. Les préserver permet à l'autre de se connecter à ce qu'il·elle est en train de vivre, de laisser un respiration aux émotions, à la réflexion. Et surtout de prendre soin du rythme de chacun·e. Je trouve qu'ils apportent de la douceur.
+
+**Exprimer ses sentiments et non son opinion**
+Pour aller plus loin dans l'écho, en tant qu'écoutant·e, je peux aussi parfois prendre la parole autrement que pour reformuler. Les quelques précautions que je peux prendre pourraient être : 
+- de demander à l'autre si je peuc lui partager quelque chose
+- poser une question d'éclaircissement, pour mieux comprendre ce dont il·elle parle
+- partager un ressenti "*Quand tu me dis ça, je me sens ému·e.*"
+
+## Réflexion n°3 - 
+
+
+
+
+
 
 
 

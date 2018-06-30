@@ -73,21 +73,26 @@ Personnellement, je trouve que cette posture est assurée si je me dis "*c'est b
 - un parti-pris (le·la facilitat·eur·rice osera interrompre, réagir si ça dérape)
 - une sorte de présence rassurante "il·elle est bien dans ses baskets, il·elle sait où il·elle va"
 
+## L'agile Open France du 3 au 7 juillet, l'occasion parfaite pour tester des trucs et confronter/enrichir nos réflexions
+En juillet on participe toutes les deux à l'[Agile Open France](https://agileopenfrance.com/saison/ete2018/). 4 jours de forum ouvert dans les Cévènnes. A travers nos échanges, tout un tas d'idées ont émergées, c'est l'occasion rêvée pour tester ces idées et Julia propose qu'on le fasse. 
 
+### Tester des ateliers pratiques dans lesquels les participant·e·s sont parties prenantes
+Un de mes ateliers préférés auxquel j'ai participé lors du forum ouvert de Sudweb a été celui du Théâtre forum, sur les interactions. 
 
-Le rythme, notion récurrente ?
+Les facilitatrices ont fait la démo d’une même situation, oppressive puis avec l’usage de la CNV, et nous ont fait décrypter les différences, puis applique ces principes en petits groupes.
 
-En juillet on participe toutes les deux à l'Agile Open France (4 jours de forum ouvert dans les Cévènnes). A travers nos échanges, tout un tas d'idées ont émergées, c'est l'occasion rêvée pour tester ces idées et Julia propose qu'on le fasse. 
+J’aime beaucoup ces formats parceque créer des petits groupes, permet de provoquer une “vraie rencontre” (d’autant plus que là on nous incitait à partager une anecdote personnelle) et qu’en plus l’exercice met à l’épreuve ce qu’on pense qui sera facile de maîtriser.
 
-Comme on a parlé de la violence du rythme (voire même de l’enthousiasme parfois) des autres, je partage avec Julia le fait qu’un de mes autres ateliers préférés au forum ouvert de Sudweb c’était celui du Théâtre forum, sur les interactions. Elles ont fait la démo d’une même situation, oppressive puis avec l’usage de la CNV, et nous ont fait décrypter les différences, puis applique ces principes en petits groupes.
-J’aime beaucoup ces formats parce qu’en petit groupe, ça permet une “vraie rencontre” (d’autant plus que là on nous incitait à partager une anecdote personnelle) et qu’en plus l’exercice met à l’épreuve ce qu’on pense qui sera facile de maîtriser.
 Par exemple : j’ai trouvé que la reformulation, c’était super difficile. Pour rester naturelle, trouver les bons mots, ne pas couper la personne… C’était pas si évident.
+
 Ça demande beaucoup de pratique.
 
-Ensuite, Julia se dit qu’on pourrait faire des mises en situation — idées que je ne partage pas encore ici mais qui mijotent bien au chaud.
+Ensuite, Julia se dit qu’on pourrait faire le même genre de mises en situation avec nos idées. Je ne la rejoins pas encore sur ça mais ça mijotent bien au chaud.
 
 ## La prochaine fois
-On se retrouve à Sète !
+On se retrouve à Sète, en vrai pour continuer à travailler. On a plein d'idées de trucs qu'on aimerait faire notamment commencer à agréger nos réflexions via une grande cartographie...
+
+Hâtes de se retrouver.
 
 
 

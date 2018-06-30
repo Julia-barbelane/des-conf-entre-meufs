@@ -1,4 +1,4 @@
-# Call 5 - 
+# Call 5 - tout doucement, le concret se dessine...
 
 ## Mettre nos échanges sur un blog pour qu'ils soient plus accessibles
 J'ai récemment appris à utiliser GH pages pour transformer les repertoires GitHub en pages de blog. J'ai proposé à Noémie de le faire pour notre "Truc". C'est bien plus accessibles pour celles et ceux qui n'utilisent pas GitHub.

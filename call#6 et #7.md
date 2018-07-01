@@ -1,6 +1,6 @@
 # Call #6 et #7 - Au delà de nos différences
 
-Ca fait maintenant quelques mois qu'on échange sur tout un tas de sujets. Vient le moment de faire un point ? Est-ce que ces échanges nous nourrissent ? Est-ce que c'est toujours pertinent ? Est-ce que la méthode nous convient encore ? Est-ce que ça va bien pour l'une ? Et l'autre ? Bref, on ressent le besoin de poser les choses et de faire un point...
+Ca fait maintenant quelques mois qu'on échange sur tout un tas de sujets. Vient le moment de faire un point. Est-ce que ces échanges nous nourrissent ? Est-ce que c'est toujours pertinent ? Est-ce que la méthode nous convient encore ? Est-ce que ça va bien pour l'une ? Et l'autre ? Bref, on ressent le besoin de poser les choses et de faire un point...
 
 ## L'enthousiasme partagé de continuer 
 Noémie m'interppelle. Les deux derniers échnages ont été moins prolifiques que les précédents. Elle vient vérifier que c'est toujours enthousiasmant pour moi et qu'on ne continue pas par "principe". Je comprends qu'elle ne tient absolument pas à ce dernier point. 
@@ -42,6 +42,17 @@ Quelques idées de forme :
 - créer contraintes d'interaction safe
 - faire vivre des expériences par le corps pour appeler l'empathie et encourager l'apprentissage
 - être des facilitatrices et pas des expertes/professeures
+
+## Partager et documenter notre méthode
+Noéms et moi nous rejoignons sur le fait que la méthode qu'on utilise pour fabriquer tout ce contenu nous plaît. Emerge l'idée de documenter le processus pour permettre à d'autres de se l'approprier. J'imagine quelques points pour la rendre intelligible et transmissible.
+
+1) clarifier l'intention dès le début
+2) s'aligner sur comment on interragit (se dire les choses, comment se les dire, laisser une place aux silence, permettre à l'autre de rebondir, lâcher prise sur l'envie d'atteindre un résultat, faire confiance à l'émergence naturelle d'une convergence...)
+3) l'importance de documenter pour ne pas rester que dans le plaisir du moment présen, apprendre plus, pouvoir transmettre...)
+
+Puis évidemment rédiger une partie dans laquelle on raconte ce que ça nous apporte et une autre sur une proposition d'une nouvelle représentation de l'apprentissage et de la co-transmission. 
+
+
 
 
 

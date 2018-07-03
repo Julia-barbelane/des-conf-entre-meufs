@@ -62,6 +62,7 @@ Je repense à une des vidéo de Margot qui a créé la chaîne Youtube [Vivre av
 Du coup je m'interroge. "*Comment je fais pour me remettre en question sur cette posture ? J'ai besoin d'eux·elles.*"  
 Noéms : "*Ben oui mais là c'est différent, si tu t'appuie sur le format de l'atelier de Raphaël, c'est pour libérer la parole des personnes handicapées nan ?*"  
 Julia : "*Hummm...je ne suis pas sûre que mon intention première soit de libérer la parole des personnes. Je crois que mon intention c'est avant tout d'apprendre, de comprendre pour me remettre en question et faire mieux. Dans ce cas, utiliser le format de l'atelier de Raph (qui au passage permet de libérer la parole d'une population oppressée) est en réalité une stratégie au service de mon intention tout à fait égoïste. Et ça ça change plein de trucs...*
+Noems : "*D'ailleurs tu vois je me rends compte que j'ai employé le mauvais mot, il ne s'agit pas de 'libérer la parole' (elle existe déjà) mais de la favoriser*".
 
 ## Réflexion n°4 - le·la facilitat·eur·rice garant·e du cadre safe
 C'est toujours en parlant de l'atelier sur la parole et le genre qu'on a pris la mesure de l'importance du rôle du·de la facilitat·eur·rice dans la préservation d'un cadre d'interaction safe. 

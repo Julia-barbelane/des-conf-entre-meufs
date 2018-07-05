@@ -10,7 +10,7 @@ Trop facile. Ici on s'est vite rejoint. Expérimenter et partager.
 **Ju** : pour participer à créer des contextes relationnels et d'interaction plus doux, plus safe pour permettre au personnes en présences de "baisser la garde", de moins souffrir et de pouvoir mieux fonctionner, connecter plus facilement avec leur créativité et leur élans du coeur.  
 
 ### Step#3 : Banco. On s'appuie sur quoi ?
-**Noém's** : j'ai bien aimé tes réflexions sur [la fabrication](https://github.com/Julia-barbelane/reflexions/blob/master/chantiers/code-of-conduct.md) et [l'accueil](https://github.com/Julia-barbelane/reflexions/blob/master/chantiers/CoC-pour-VS-contre.md) des CoC et les [pratiques safe](https://github.com/Julia-barbelane/reflexions/blob/master/chantiers/creer-un-cadre-de-collaboration-safe.md). On pourrait reprendre ce travail et fabriquer des supports dessus.  
+**Noém's** : j'ai bien aimé tes réflexions sur [la fabrication](https://github.com/Julia-barbelane/reflexions/blob/master/chantiers/code-of-conduct.md) et [l'accueil](https://github.com/Julia-barbelane/reflexions/blob/master/chantiers/CoC-pour-VS-contre.md) des CoC et les [pratiques safe](https://github.com/Julia-barbelane/reflexions/blob/master/chantiers/creer-un-cadre-de-collaboration-safe.md). On pourrait reprendre ce travail et fabriquer des supports dessus.   
 **Ju** : Tu veux dire qu'on aurait déjà la base de matière et qu'il ne resterait qu'à imaginer la forme la plus adaptée pour la transmettre ?  
 **Noém's** : yes c'est ça.  
 

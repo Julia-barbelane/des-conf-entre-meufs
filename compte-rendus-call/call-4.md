@@ -1,6 +1,6 @@
 # Call#4 avec David Bruant - "La vie naît du chaos" 
 
-## Contexte
+### Contexte
 Dans nos précédents appels, Julia a mentionné le travail qu'a lancé [David](https://github.com/DavidBruant) sur les [Interactions humaines saines utiles et long terme](https://github.com/DavidBruant/interactions-humaines-saines-utiles-long-terme). 
 C'est une démarche et une exploration proche de la nôtre, alors on croise les regards. Pour lui, ça a commencé par un travail de définition.  
 
@@ -59,7 +59,7 @@ David découpe ça en deux catégories :
 - les attentes légitimes (on s'est mis d'accord sur quelque chose)  
 - les attentes illégitimes (non-verbal, l'accord n'a pas explicitement été donné)  
 
-### Applications pratiques  
+#### Applications pratiques  
 David nous dit que ces outils étaient destinés à améliorer sa compréhension, lui donner du vocabulaire et changer sa manière de penser.  
 "Pourquoi tu souffres ?"  
 • Est-ce que je te l'avais dit ?  
@@ -74,13 +74,13 @@ On parle de la dérive des bonnes intentions, comme dit le diction populaire :
 
 David met une barrière lorsqu'une personne ne reconnait pas ses erreurs et ne cherche pas à s'améliorer. Ça veut dire que la personne se moque de faire souffrir l'autre/les autres.  
 
-### Faire connaître ses besoins - corréler avec des actions  
+#### Faire connaître ses besoins - corréler avec des actions  
 David :  
 > Je fais de moins en moins confiance à la communication seule. Il faut qu'il y ait **une cohérence avec les actions**."
 
 Noémie : C'est marrant j'ai la sensation que je passe moins de temps à m'interroger sur mes actions. Je prends souvent le temps de réfléchir aux mots et aux manières de communiquer, mais je remets moins en question mes actions. Ça fait partie des choses auxquelles on nous invite peu à réfléchir, je trouve, j'ai la sensation de ne l'entendre que rarement.
 
-### Réflexions sur les Code of Conduct  
+#### Réflexions sur les Code of Conduct  
 On voit souvent la dissonance entre les valeurs "affichées" et le déroulé dans la vie réelle, comment traduire ses valeurs en actions qui les reflètent ? C'est au cœur de la construction d'espaces ou d'évènements safe.  
 
 **Les CoC sont un cadre. Et pour le traduire dans le réel, il faut que les équipes organisatrices des évènements se mettent au clair sur le contenu et les actions à mettre en place pour le refléter. La posture de l'équipe est importante.**  
@@ -94,8 +94,8 @@ C'est déjà vraiment bien, et beaucoup trop rare.
 Mais combien de personnes vont vraiment le lire ?  
 Est-ce que c'est suffisant ?  
 
-Julia : Et si on faisait un atelier de co-construction de Code of Conduct pendant l'évènement ?  
-Noémie : Moi, je m'attends à ce qu'il soit déjà fourni par les organisateurs. Si ça se trouve ça prendrait autant de temps que l'évènement, le temps de co-écrire et de venir à bout des discussions, et pendant ce temps, quel cadre garantit l'évènement qui se déroule en parallèle de l'atelier ?  
+**Julia** : Et si on faisait un atelier de co-construction de Code of Conduct pendant l'évènement ?  
+**Noémie** : Moi, je m'attends à ce qu'il soit déjà fourni par les organisateurs. Si ça se trouve ça prendrait autant de temps que l'évènement, le temps de co-écrire et de venir à bout des discussions, et pendant ce temps, quel cadre garantit l'évènement qui se déroule en parallèle de l'atelier ?  
 
 **Qu'est-ce qu'on peut mettre en place pour créer des systèmes de recours/de soutien safe ?**
 - Communiquer le code of conduct en ouverture de conf  
@@ -109,7 +109,7 @@ Deux questions dans ce cas :
 
 **Unanimité sur le fait d'informer/d'équiper les participant•e•s en cas d'incident : poser des limites, dire non, demander du soutien, s'en aller, de l'écoute (pouvoir partager son ressenti en toute confiance)...**
 
-## Feedback sur la session  
+### Feedback sur la session  
 • Ravi•e•s d'avoir eu cette discussion avec David  
 • Ça participe à valider et ancrer des réflexions, plus facile de faire du temps pour ça quand on est à plusieurs.  
 • Le format peut donner une impression de flou mais on sent bien l'envol des discussions, et c'est cette liberté qui permet de faire ressortir des choses  

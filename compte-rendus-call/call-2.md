@@ -1,6 +1,6 @@
 # Call #2 : "La violence c'est le rythme des autres"
 
-## Se comprendre - manières de documenter nos échanges
+### Se comprendre - manières de documenter nos échanges
 
 On se cale sur le système de notifications du repo pour qu'on soit l'une et l'autre au courant de nos changements.  
   **Noems** : J'avais ajouté des choses au doc en cours de semaine  
@@ -13,7 +13,7 @@ Julia fait des demandes de clarification de certains trucs et de reformulation d
   Le but c'est que ces documents puissent circuler et être pris en main.  
   Ça pourrait être bien de mettre certains des liens / contenus du premier appel dans des documents séparés.
 
-## Reprise de l'appel précédent
+### Reprise de l'appel précédent
 
   **Ju** : Alors t'as lu [le travail de définition de David](https://github.com/DavidBruant/interactions-humaines-saines-utiles-long-terme) ?  
   **Noems** : Oui ! J'ai trouvé que c'était une super bonne base, on sent que c'est un travail encore en gestation mais il y a des germes de trucs vraiment bien. Ça fait du bien de s'aligner sur le sens des mots qu'on emploie.  
@@ -26,7 +26,7 @@ On dirait que deux (voire trois) grandes thématiques ressortent de nos discussi
 - la diversité / l'inclusion
 - les codes of conduct
 
-## La violence c'est le rythme des autres
+### La violence c'est le rythme des autres
 C'est la phrase-déclencheuse !
 
   **Noems** : C'est Julia qui prononce cette phrase frappante. Elle parle de "*ralentir pour mieux se consacrer*", dans sa vie en ce moment.  
@@ -52,7 +52,7 @@ C'est la phrase-déclencheuse !
   A quoi est-ce que je dis oui / non ?  
   A travers ces expressions, on parle de besoin plus ou moins fort de contrôle, de cadre et de liberté. 
   
-## Adresser un message
+### Adresser un message
 A travers la question : "comment est-ce que tu aurais abordé une question difficile avec quelqu'un ?" 
 On a observé qu'il y avait plusieurs manières de s'y prendre.
 - La provocation (une manière consciente de formuler son propos pour faire réagir l'autre)
@@ -65,7 +65,7 @@ A quel point veut-on **protéger** son interlocuteur ?
 
 Ressort la question clé d'avoir **conscience de ce qu'on peut créer chez son interlocuteur**, comprendre quelles peuvent être les **conséquences**, et faire son choix.  
 
-## Conclusion "En fait on s'en fout des confs"
+### Conclusion "En fait on s'en fout des confs"
 On n'a pas tant avancé sur le format d'un potentiel atelier pour une conf, mais finalement, la discussion a besoin de prendre son temps pour pouvoir mûrir et se clarifier.  
 On a envie de se détacher de la contrainte de deadlines et envie de se donner plus de temps pour voir où ce format nous mène et ce qui peut en sortir.  
 

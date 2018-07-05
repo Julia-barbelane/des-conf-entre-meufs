@@ -1,4 +1,8 @@
-Nous partageons des centre d'intérêts communs (inclusivité, safitude…) et nous avons eu envie de réfléchir à ces sujets et pourquoi pas de fabriquer des Trucs pour les partager tout en s'amusant. L'idée est née comme ça suite à une discussion sur les Codes Of Conduct. Résultat, un call plus tard nous avions envie de proposer une conf et nous avions créé ce repo' dans lequel nous ne savions pas encore tout à fait quoi mettre…*
+Nous partageons des centre d'intérêts communs (inclusivité, safitude…) et nous avons eu envie de réfléchir à ces sujets et pourquoi pas de fabriquer des Trucs pour les partager tout en s'amusant. 
+
+L'idée est née comme ça suite à une discussion sur les Codes Of Conduct.  
+
+Résultat, un call plus tard nous avions envie de fabriquer un truc et nous avions créé ce repo' dans lequel nous ne savions pas encore tout à fait quoi mettre…
 
 ## Les échanges
 - [Préambule](compte-rendus-call/preambule.md)

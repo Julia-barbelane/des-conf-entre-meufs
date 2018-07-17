@@ -12,6 +12,11 @@ Pour nous, l'idée première était tout simplement d'écouter les échos que le
 Première intuition confirmée : c'est une sensation largement partagée.  
 On propose à chaque participant.e de partager des anecdotes de rythme contraint ou subi, et les sensations qui s'en sont dégagées.  
 
+### Pourquoi c'est intéressant dans ce contexte
+Une des règles du forum ouvert est de respecter "la loi des deux pieds". Nos deux pieds (comprendre : notre boussole intérieure, notre enthousiasme, notre rythme...) est ce qu'on va s'exercer à entendre, à comprendre, à traduire en actions. Un atelier où on se trouve ne nous intéresse plus ? On peut s'en aller.  
+On se désencombre des "obligations morales" ou des "comportements socialement (in)acceptables" et on s'écoute soi.  
+Si ça ne s'appelle pas suivre son rythme, ça.
+
 ### Les anecdotes entendues
 **- Le pair programming, une épreuve**  
 Beaucoup de participant.e.s évoquent une grande frustration pendant cet exercice.  
